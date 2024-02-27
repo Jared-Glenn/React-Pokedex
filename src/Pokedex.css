@@ -1,0 +1,12 @@
+
+.pokedex-title {
+    color: rgb(71, 71, 71);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.pokedex-container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin: 10px;
+}
